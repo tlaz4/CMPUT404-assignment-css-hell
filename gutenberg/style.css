@@ -1,0 +1,32 @@
+body { color: Black;
+       background-color:  #F3E5AB;
+       margin-right: 15%;
+       margin-left: 15%;
+       font-family: serif;}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center; 
+  font-style: normal;
+  font-weight: bold; 
+  line-height: 1.5; 
+  font-variant: small-caps;
+  text-decoration: underline;
+}
+
+h1 {font-size: 225%;}
+h2 {font-size: 175%;}
+h3 {font-size: 150%;}
+h4 {font-size: 120%;}
+
+p {
+  text-indent: 2%;
+}
+
+img {
+  border: 2px solid black;
+}
+
+img:hover{
+  width: 110%;
+  height: 110%;
+}

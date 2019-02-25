@@ -1,0 +1,1 @@
+The only changes I had to make to the html was removing the style applied to each individual html and adding the link to my stylesheet. I also changed the table of contents so the link was to a relative url id rather than a absolute url id.

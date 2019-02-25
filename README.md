@@ -1,7 +1,7 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
+You will skin 3 project gutenberg stories with custom CSS
 
 You will skin 2 versions of a possible professional homepage for your
 self with 2 versions of CSS.
