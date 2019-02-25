@@ -21,4 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+CHANGES MADE IN PART1:
+The only changes I had to make to the html was removing the style applied to each individual html and adding the link to my stylesheet. I also changed the table of contents so the link was to a relative url id rather than a absolute url id.
+
 

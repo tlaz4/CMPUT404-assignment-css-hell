@@ -24,6 +24,8 @@ p {
 
 img {
   border: 2px solid black;
+  width: 50%;
+  height: auto;
 }
 
 img:hover{
